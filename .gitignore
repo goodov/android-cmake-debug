@@ -1,0 +1,6 @@
+build
+sources/Teapot/libs/armeabi-v7a
+sources/Teapot/libs/armeabi
+sources/Teapot/bin
+sources/Teapot/gen
+sources/Teapot/.*
